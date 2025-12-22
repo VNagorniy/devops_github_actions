@@ -12,4 +12,3 @@ app.listen(PORT, () => {
 });
 
 export default app;
-tests / ping.test.js;
